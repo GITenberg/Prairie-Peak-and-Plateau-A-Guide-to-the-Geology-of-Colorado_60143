@@ -1,0 +1,31 @@
+_repo: Prairie-Peak-and-Plateau-A-Guide-to-the-Geology-of-Colorado_60143
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Chronic, Halka
+    birthdate: 1923
+    deathdate: 2013
+    gutenberg_agent_id: '50814'
+    url: http://www.gutenberg.org/2009/agents/50814
+    wikipedia: https://en.wikipedia.org/wiki/Halka_Chronic
+  - agent_name: Chronic, John
+    alias: Chronic, Byron John
+    gutenberg_agent_id: '50813'
+    url: http://www.gutenberg.org/2009/agents/50813
+description: ''
+gutenberg_issued: '2019-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60143'
+  lccn: '76624117'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Colorado Geological Survey bulletin 32
+subjects:
+- !lcsh 'Geology -- Colorado -- Guidebooks'
+- !lcc 'QE'
+- GITenberg
+title: 'Prairie, Peak, and Plateau: A Guide to the Geology of Colorado'
+url: http://www.gutenberg.org/ebooks/60143
